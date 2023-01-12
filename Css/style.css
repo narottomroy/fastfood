@@ -1,0 +1,60 @@
+.main-section{
+    background: url('/img/main-back.png');
+}
+@media only screen and (max-width: 1200px){
+    /*Tablets [601px -> 1200px]*/
+    .min-text-img {
+        font-size: large;
+            font-family: 'Rowdies', cursive;
+            font-size: 80px;
+        }
+        .text-burger{
+            font-family: 'Rowdies', cursive;
+            font-size: 70px;
+        }
+        .test{
+            font-family: 'Rowdies', cursive;
+            font-size: 15px;
+        }
+        .min-img{
+            height:550px;
+            width: 100%;
+        }
+
+}
+@media only screen and (max-width: 600px){
+    .min-text-img {
+        font-size: large;
+            font-family: 'Rowdies', cursive;
+            font-size: 70px;
+        }
+        .text-burger{
+            font-family: 'Rowdies', cursive;
+            font-size: 50px;
+        }
+        .test{
+            font-family: 'Rowdies', cursive;
+            font-size: 15px;
+        }
+	/*Big smartphones [426px -> 600px]*/
+}
+@media only screen and (max-width: 425px){
+	/*Small smartphones [325px -> 425px]*/
+}
+/* .reservation{
+    background: url('/img/reservation.png');
+} */
+.reservation {
+    background: url('/img/gh.png');
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width: 100%;
+}
+
+.contact-us{
+    background: url('/img/background.png');
+    height: 650px;
+    width: 100%;
+    background-size: cover;
+}
