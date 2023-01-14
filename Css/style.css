@@ -6,7 +6,7 @@
     .min-text-img {
         font-size: large;
             font-family: 'Rowdies', cursive;
-            font-size: 80px;
+            font-size: 90px;
         }
         .text-burger{
             font-family: 'Rowdies', cursive;
@@ -14,13 +14,8 @@
         }
         .test{
             font-family: 'Rowdies', cursive;
-            font-size: 15px;
+            font-size:20px;
         }
-        .min-img{
-            height:550px;
-            width: 100%;
-        }
-
 }
 @media only screen and (max-width: 600px){
     .min-text-img {
@@ -40,6 +35,7 @@
 }
 @media only screen and (max-width: 425px){
 	/*Small smartphones [325px -> 425px]*/
+
 }
 /* .reservation{
     background: url('/img/reservation.png');
@@ -48,13 +44,10 @@
     background: url('/img/gh.png');
     background-size: cover;
     background-position: center;
-    height: 600px;
+    height: 400px;
     width: 100%;
 }
 
 .contact-us{
     background: url('/img/background.png');
-    height: 650px;
-    width: 100%;
-    background-size: cover;
 }
