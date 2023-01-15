@@ -37,17 +37,6 @@
 	/*Small smartphones [325px -> 425px]*/
 
 }
-/* .reservation{
-    background: url('/img/reservation.png');
-} */
-.reservation {
-    background: url('/img/gh.png');
-    background-size: cover;
-    background-position: center;
-    height: 400px;
-    width: 100%;
-}
-
 .contact-us{
     background: url('/img/background.png');
 }
